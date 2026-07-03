@@ -1,0 +1,6 @@
+streamlit
+torch
+transformers
+textblob
+numpy
+pandas
